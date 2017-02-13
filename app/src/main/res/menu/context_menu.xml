@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sretcher.appbarexample4.MainActivity">
+
+
+
+    <item android:id="@+id/Visit"
+        android:title="@string/Visit"
+        app:showAsAction="ifRoom" />
+
+            <item android:id="@+id/Explore"
+                android:title="@string/Explore" />
+
+
+
+
+</menu>
